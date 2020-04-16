@@ -10,11 +10,11 @@ import string
 
 import time
 
-print ("Copy User ID From : Setting/Advanced/Diagnostics/ID")
+print ("2b1b5e4a-038f-49da-a69e-7882e8d59f8f")
 
 print ("By - 6six6") 
 
-referrer = input("WARP+ ID: ")
+referrer = input("WARP+ ID:otojepz117")
 
 def genString(stringLength):
 
